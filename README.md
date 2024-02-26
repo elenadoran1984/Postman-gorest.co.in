@@ -21,3 +21,5 @@ Trying it Out:
 POST /public/v2/users/userId/posts	Creates a user post
 POST /public/v2/posts/postId/comments	Creates a post comment
 POST /public/v2/users/userId/todos	Creates a user todo
+
+Important: after login, go to https://gorest.co.in/my-account/access-tokens and copy the token
